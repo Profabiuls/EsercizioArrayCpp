@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="EsercizioVettore.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
   </ItemGroup>
